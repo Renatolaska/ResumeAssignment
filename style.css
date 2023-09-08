@@ -1,0 +1,69 @@
+
+/*style */
+body {
+    color: rgb(3, 3, 3);
+}
+img {
+   width: 300px; 
+}
+a:hover {
+    text-decoration: none;
+}
+
+
+/*Profile */
+
+header {
+    color: rgb(247, 143, 129);
+}
+
+
+
+
+/*Projects */
+.projects {
+    background: rgb(247, 245, 245);
+}
+
+.projects a {
+   color: rgb(238, 9, 9);
+}
+
+.projects .btn {
+    color: rgb(221, 57, 12);
+    background: rgb(84, 209, 237);
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 4px;
+}
+
+.projects .btn:hover {
+    background:rgba(47, 48, 97, 80%) ;
+}
+
+
+
+
+
+
+/*Work Experience */
+
+.work-exp {
+    background: rgb(159, 217, 238);
+}
+
+
+
+
+/*Education */
+
+
+
+
+
+
+/*Contact info */
+
+footer {
+    background-color: rgb(255, 169, 169);
+}
