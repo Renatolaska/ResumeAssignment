@@ -1,0 +1,116 @@
+
+/*style */
+html {
+    box-sizing: border-box;
+}
+*,*:before,*:after {
+    box-sizing: inherit;
+}
+
+
+body {
+    color: rgb(3, 3, 3);
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat' sans-serif;
+    font-size: 15px;
+    line-height: 2;
+}
+img {
+   width: 300px; 
+}
+a:hover {
+    text-decoration: none;
+}
+h1 {
+    font-size: 100px;
+}
+
+h2 {
+    
+    font-size: 50px;
+}
+
+h1, h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    margin: 0;
+}
+.content-wrap {
+    width: 700px;
+    margin: 0 auto;
+    padding: 60px 0;
+}
+
+/*Profile */
+
+header {
+    color: rgb(247, 143, 129);
+}
+
+
+
+
+/*Projects */
+.projects {
+    background: rgb(247, 245, 245);
+}
+
+.projects a {
+   color: rgb(238, 9, 9);
+}
+
+.projects .btn {
+    color: rgb(221, 57, 12);
+    background: rgb(84, 209, 237);
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 4px;
+    display: inline block;
+}
+
+.project-item {
+    overflow: hidden;
+    border-bottom: 2px dashed red;
+    padding: 20px 0;
+}
+
+.projects .btn:hover {
+    background:rgba(47, 48, 97, 80%) ;
+}
+
+.project-item img {
+    float: left;
+    margin-right: 20px;
+
+}
+
+.project-item h3{
+    margin-top: 0;
+}
+
+
+
+
+
+/*Work Experience */
+
+.work-exp {
+    background: rgb(159, 217, 238);
+}
+
+
+
+
+/*Education */
+
+
+
+
+
+
+/*Contact info */
+
+footer {
+    background-color: rgb(255, 169, 169);
+}
